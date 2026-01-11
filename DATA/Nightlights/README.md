@@ -1,1 +1,2 @@
 This folder contains the Raw datafiles, ArcPY-code, as well as the shapefiles used to calculate the Nightlights growht in every Indian Constituency from 1992-2024. To get information about the sources and needed citations please refer to section 3.1 of my paper.
+ 
